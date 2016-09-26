@@ -38,3 +38,4 @@ var Logo = function (_React$Component) {
 }(_react2.default.Component);
 
 exports.default = Logo;
+//# sourceMappingURL=Logo.js.map
